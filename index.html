@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./css/app.css">
+    <title>Document</title>
+</head>
+<body>
+        <p id="para1">Player-1 Turn</p>
+    <div class="container" id="first-container">
+        <h2> Play Tic Tac Toe game</h2>
+        <div class="row" id="row-1">
+            <div class="col-sm-4" id = "el-11">
+                <button type="button" class="btn bg-success" id="btn-11" onclick="funOne()"></button>
+            </div>
+            <div class="col-sm-4" id = "el-12">
+                <button type="button" class="btn bg-success" id="btn-12" onclick="funTwo()"></button>
+            </div>
+            <div class="col-sm-4" id = "el-13">
+                <button type="button" class="btn bg-success" id="btn-13" onclick="funThree()"></button>
+            </div>
+        </div>
+        <div class="row" id="row-2">
+            <div class="col-sm-4" id = "el-21">
+                <button type="button" class="btn bg-success" id="btn-21" onclick="funFour()"></button>
+            </div>
+            <div class="col-sm-4" id = "el-22">
+                <button type="button" class="btn bg-success" id="btn-22" onclick="funFive()"></button>
+            </div>
+            <div class="col-sm-4" id = "el-23">
+                <button type="button" class="btn bg-success" id="btn-23" onclick="funSix()"></button>
+            </div>
+        </div>
+        <div class="row" id="row-3">
+            <div class="col-sm-4" id = "el-31">
+                <button type="button" class="btn bg-success" id="btn-31" onclick="funSeven()"></button>
+            </div>
+            <div class="col-sm-4" id = "el-32">
+                <button type="button" class="btn bg-success" id="btn-32" onclick="funEight()"></button>
+            </div>
+            <div class="col-sm-4" id = "el-33">
+                <button type="button" class="btn bg-success" id="btn-33" onclick="funNine()"></button>
+            </div>
+        </div>
+    </div><br><br><br>
+    
+    <button type="button" class="btn bg-primary" id="refres" onclick="reload()">Refress</button>
+    <p id="para"></p>
+    <script src="./script/app.js"></script>
+</body>
+</html>
