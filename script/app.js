@@ -157,10 +157,10 @@ function funConditionChecking() {
     }
     else {
         if (player === 1) {
-            paraEl1.innerHTML = "Player-2 Turn";
+            paraEl1.innerHTML = "Player-O Turn";
         }
         else {
-            paraEl1.innerHTML = "Player-1 Turn";
+            paraEl1.innerHTML = "Player-X Turn";
         }
     }
 
