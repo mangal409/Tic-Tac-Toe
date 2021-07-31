@@ -35,11 +35,11 @@ function funConditionChecking() {
     }
     else if (element21.innerHTML != "" && element21.innerHTML === element22.innerHTML && element22.innerHTML === element23.innerHTML) {
         if (player === 1) {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "Wohoo! player O is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player O is winner";
             paraEl1.style.display = "none";
         }
         element11.disabled = true;
@@ -51,11 +51,11 @@ function funConditionChecking() {
     }
     else if (element31.innerHTML != "" && element31.innerHTML === element32.innerHTML && element32.innerHTML === element33.innerHTML) {
         if (player === 1) {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "Wohoo! player O is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player O is winner";
             paraEl1.style.display = "none";
         }
         element11.disabled = true;
@@ -68,11 +68,11 @@ function funConditionChecking() {
     }
     else if (element11.innerHTML != "" && element11.innerHTML === element21.innerHTML && element21.innerHTML === element31.innerHTML) {
         if (player === 1) {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "Wohoo! player O is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player O is winner";
             paraEl1.style.display = "none";
         }
         element12.disabled = true;
@@ -84,11 +84,11 @@ function funConditionChecking() {
     }
     else if (element12.innerHTML != "" && element12.innerHTML === element22.innerHTML && element22.innerHTML === element32.innerHTML) {
         if (player === 1) {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "Wohoo! player O is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player O is winner";
             paraEl1.style.display = "none";
         }
         element11.disabled = true;
@@ -100,11 +100,11 @@ function funConditionChecking() {
     }
     else if (element13.innerHTML != "" && element13.innerHTML === element23.innerHTML && element23.innerHTML === element33.innerHTML) {
         if (player === 1) {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "Wohoo! player O is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player O is winner";
             paraEl1.style.display = "none";
         }
         element11.disabled = true;
@@ -133,11 +133,11 @@ function funConditionChecking() {
     }
     else if (element13.innerHTML != "" && element13.innerHTML === element22.innerHTML && element22.innerHTML === element31.innerHTML) {
         if (player === 1) {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "Wohoo! player X is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player X is winner";
             paraEl1.style.display = "none";
         }
         element11.disabled = true;
