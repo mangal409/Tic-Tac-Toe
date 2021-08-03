@@ -169,7 +169,7 @@ function funConditionChecking() {
 function funOne() {
     if (flag == 1) {
         element11.innerHTML = "x";
-        element11.style.fontSize = "100px";
+        element11.style.fontSize = "40px";
         element11.disabled = true;
         flag = 0;
         player = 1;
@@ -177,7 +177,7 @@ function funOne() {
     }
     else {
         element11.innerHTML = "o";
-        element11.style.fontSize = "100px";
+        element11.style.fontSize = "40px";
         element11.disabled = true;
         flag = 1;
         player = 0;
@@ -187,7 +187,7 @@ function funOne() {
 function funTwo() {
     if (flag == 1) {
         element12.innerHTML = "x";
-        element12.style.fontSize = "100px";
+        element12.style.fontSize = "40px";
         element12.disabled = true;
         flag = 0;
         player = 1;
@@ -196,7 +196,7 @@ function funTwo() {
     else {
         element12.innerHTML = "o";
         element12.disabled = true;
-        element12.style.fontSize = "100px";
+        element12.style.fontSize = "40px";
         flag = 1;
         player = 0;
         funConditionChecking();
@@ -205,7 +205,7 @@ function funTwo() {
 function funThree() {
     if (flag == 1) {
         element13.innerHTML = "x";
-        element13.style.fontSize = "100px";
+        element13.style.fontSize = "40px";
         element13.disabled = true;
         flag = 0;
         player = 1;
@@ -213,7 +213,7 @@ function funThree() {
     }
     else {
         element13.innerHTML = "o";
-        element13.style.fontSize = "100px";
+        element13.style.fontSize = "40px";
         element13.disabled = true;
         flag = 1;
         player = 0;
@@ -223,7 +223,7 @@ function funThree() {
 function funFour() {
     if (flag == 1) {
         element21.innerHTML = "x";
-        element21.style.fontSize = "100px";
+        element21.style.fontSize = "40px";
         element21.disabled = true;
         flag = 0;
         player = 1;
@@ -231,7 +231,7 @@ function funFour() {
     }
     else {
         element21.innerHTML = "o";
-        element21.style.fontSize = "100px";
+        element21.style.fontSize = "40px";
         element21.disabled = true;
         flag = 1;
         player = 0;
@@ -241,7 +241,7 @@ function funFour() {
 function funFive() {
     if (flag == 1) {
         element22.innerHTML = "x";
-        element22.style.fontSize = "100px";
+        element22.style.fontSize = "40px";
         element22.disabled = true;
         flag = 0;
         player = 1;
@@ -249,7 +249,7 @@ function funFive() {
     }
     else {
         element22.innerHTML = "o";
-        element22.style.fontSize = "100px";
+        element22.style.fontSize = "40px";
         element22.disabled = true;
         flag = 1;
         player = 0;
@@ -259,7 +259,7 @@ function funFive() {
 function funSix() {
     if (flag == 1) {
         element23.innerHTML = "x";
-        element23.style.fontSize = "100px";
+        element23.style.fontSize = "40px";
         element23.disabled = true;
         flag = 0;
         player = 1;
@@ -267,7 +267,7 @@ function funSix() {
     }
     else {
         element23.innerHTML = "o";
-        element23.style.fontSize = "100px";
+        element23.style.fontSize = "40px";
         element23.disabled = true;
         flag = 1;
         player = 0;
@@ -277,7 +277,7 @@ function funSix() {
 function funSeven() {
     if (flag == 1) {
         element31.innerHTML = "x";
-        element31.style.fontSize = "100px";
+        element31.style.fontSize = "40px";
         element31.disabled = true;
         flag = 0;
         player = 1;
@@ -285,7 +285,7 @@ function funSeven() {
     }
     else {
         element31.innerHTML = "o";
-        element31.style.fontSize = "100px";
+        element31.style.fontSize = "40px";
         element31.disabled = true;
         flag = 1;
         player = 0;
@@ -295,14 +295,14 @@ function funSeven() {
 function funEight() {
     if (flag == 1) {
         element32.innerHTML = "x";
-        element32.style.fontSize = "100px";
+        element32.style.fontSize = "40px";
         element32.disabled = true;
         flag = 0;
         player = 1;
     }
     else {
         element32.innerHTML = "o";
-        element32.style.fontSize = "100px";
+        element32.style.fontSize = "40px";
         element32.disabled = true;
         flag = 1;
         player = 0;
@@ -312,7 +312,7 @@ function funEight() {
 function funNine() {
     if (flag == 1) {
         element33.innerHTML = "x";
-        element33.style.fontSize = "100px";
+        element33.style.fontSize = "40px";
         element33.disabled = true;
         flag = 0;
         player = 1;
@@ -320,7 +320,7 @@ function funNine() {
     }
     else {
         element33.innerHTML = "o";
-        element33.style.fontSize = "100px";
+        element33.style.fontSize = "40px";
         element33.disabled = true;
         flag = 1;
         player = 0;
