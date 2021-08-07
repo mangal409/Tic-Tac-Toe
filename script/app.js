@@ -137,7 +137,7 @@ function funConditionChecking() {
             paraEl1.style.display = "none";
         }
         else {
-            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player x is winner";
+            message.innerHTML = "<span style='font-size:40px;'>&#127942;</span>"+"Wohoo! player O is winner";
             paraEl1.style.display = "none";
         }
         element11.disabled = true;
